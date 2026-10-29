@@ -71,7 +71,7 @@ Power BI + relatório executivo
 | 5 | Pipeline Python e testes de qualidade | Concluída |
 | 6 | Dashboard Power BI e medidas DAX | Concluída* |
 | 7 | Docker, CI/CD, observabilidade e documentação final | Concluída |
-| 8 | Demonstração, revisão e publicação no GitHub | Próxima |
+| 8 | Demonstração, revisão e publicação no GitHub | Concluída |
 
 ## Indicadores principais
 
@@ -199,4 +199,4 @@ O workflow de CI repete esse fluxo com um PostgreSQL temporário, executa os tes
 
 ## Licença
 
-O código será disponibilizado para fins educacionais e de portfólio. A licença será definida antes da publicação.
+Distribuído sob a licença MIT. Consulte [LICENSE](LICENSE).

@@ -85,8 +85,8 @@ Cada fase deve resultar em uma entrega executável ou verificável. O projeto n�
 - [x] Revisar README para recrutadores
 - [x] Criar imagem de demonstração
 - [x] Adicionar resultados e aprendizados
-- [ ] Publicar repositório no GitHub
-- [ ] Fixar projeto no perfil
+- [x] Publicar repositório no GitHub
+- [x] Fixar projeto no perfil
 
 ## Critério de conclusão
 
