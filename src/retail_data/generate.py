@@ -158,7 +158,16 @@ def _make_orders(
 
     for order_index in range(1, count + 1):
         order_date = _weighted_sales_date(rng, start, end)
-        customer = rng.choices(customers, weights=customer_weights, k=1)[0]
+        eligible = [
+            (customer, weight)
+            for customer, weight in zip(customers, customer_weights)
+            if date.fromisoformat(customer["signup_date"]) <= order_date
+        ]
+        customer = rng.choices(
+            [customer for customer, _ in eligible],
+            weights=[weight for _, weight in eligible],
+            k=1,
+        )[0]
         channel = rng.choices(CHANNELS, [0.48, 0.38, 0.14])[0]
         store_id = rng.choice(stores)["store_id"] if channel == "Loja física" else ""
         status = rng.choices(["Completed", "Cancelled", "Returned"], [0.93, 0.04, 0.03])[0]

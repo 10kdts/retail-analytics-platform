@@ -1,19 +1,19 @@
 {
   "dataset": "data\\sample",
-  "generated_at_utc": "2026-10-29T04:06:03.136739+00:00",
+  "generated_at_utc": "2026-10-29T04:15:13.158811+00:00",
   "summary": {
     "rows": 5157,
-    "valid_rows": 5065,
-    "rejected_rows": 92,
-    "validity_rate": 0.98216,
+    "valid_rows": 5101,
+    "rejected_rows": 56,
+    "validity_rate": 0.989141,
     "documented_issues": 5,
     "documented_issues_detected": 5,
-    "cascading_rejections": 88
+    "cascading_rejections": 52
   },
   "rule_counts": {
-    "customer_fk": 23,
+    "customer_fk": 15,
     "email_unique": 1,
-    "order_fk": 65,
+    "order_fk": 37,
     "quantity_positive": 1,
     "state_not_null": 1,
     "valid_channel": 1
@@ -45,15 +45,15 @@
     },
     "orders.csv": {
       "rows": 600,
-      "valid_rows": 576,
-      "rejected_rows": 24,
-      "validity_rate": 0.96
+      "valid_rows": 584,
+      "rejected_rows": 16,
+      "validity_rate": 0.973333
     },
     "order_items.csv": {
       "rows": 1505,
-      "valid_rows": 1439,
-      "rejected_rows": 66,
-      "validity_rate": 0.956146
+      "valid_rows": 1467,
+      "rejected_rows": 38,
+      "validity_rate": 0.974751
     },
     "inventory_snapshots.csv": {
       "rows": 2880,

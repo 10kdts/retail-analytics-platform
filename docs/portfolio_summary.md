@@ -21,10 +21,10 @@ Lideranças comerciais precisam acompanhar receita, margem, retenção e estoque
 ## Resultados demonstráveis
 
 - 5.157 registros avaliados.
-- 98,22% de validade antes da publicação em staging.
+- 98,91% de validade antes da publicação em staging.
 - 5 de 5 anomalias controladas detectadas.
-- 88 rejeições em cascata rastreadas.
-- 20 testes unitários e de contrato aprovados localmente.
+- 52 rejeições em cascata rastreadas.
+- 21 testes unitários e de contrato aprovados localmente.
 - Integração completa com PostgreSQL definida no GitHub Actions.
 
 ## Limitações honestas

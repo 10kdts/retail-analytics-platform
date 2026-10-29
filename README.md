@@ -5,7 +5,7 @@ Projeto de portfólio end-to-end para demonstrar competências de Analista de Da
 ![Python](https://img.shields.io/badge/Python-3.10%2B-2563EB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811)
-![Tests](https://img.shields.io/badge/tests-20%20passing-0F766E)
+![Tests](https://img.shields.io/badge/tests-21%20passing-0F766E)
 ![License](https://img.shields.io/badge/license-MIT-64748B)
 
 ## Destaques para recrutadores

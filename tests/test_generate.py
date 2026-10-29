@@ -44,6 +44,16 @@ class GenerateDatasetTests(unittest.TestCase):
             self.assertEqual(dirty_manifest["row_counts"]["expected_quality_issues.csv"], 5)
             self.assertEqual(clean_manifest["row_counts"]["expected_quality_issues.csv"], 0)
 
+    def test_orders_never_predate_customer_signup(self) -> None:
+        with self.temporary_directory() as directory:
+            target = Path(directory)
+            generate_dataset(target, order_count=80, inject_quality_issues=False)
+            with (target / "customers.csv").open(encoding="utf-8-sig", newline="") as stream:
+                signup = {row["customer_id"]: row["signup_date"] for row in csv.DictReader(stream)}
+            with (target / "orders.csv").open(encoding="utf-8-sig", newline="") as stream:
+                orders = list(csv.DictReader(stream))
+            self.assertTrue(all(signup[row["customer_id"]] <= row["order_date"] for row in orders))
+
 
 if __name__ == "__main__":
     unittest.main()
