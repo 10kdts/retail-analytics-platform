@@ -1,0 +1,70 @@
+{
+  "dataset": "data\\sample",
+  "generated_at_utc": "2026-10-29T04:06:03.136739+00:00",
+  "summary": {
+    "rows": 5157,
+    "valid_rows": 5065,
+    "rejected_rows": 92,
+    "validity_rate": 0.98216,
+    "documented_issues": 5,
+    "documented_issues_detected": 5,
+    "cascading_rejections": 88
+  },
+  "rule_counts": {
+    "customer_fk": 23,
+    "email_unique": 1,
+    "order_fk": 65,
+    "quantity_positive": 1,
+    "state_not_null": 1,
+    "valid_channel": 1
+  },
+  "sources": {
+    "customers.csv": {
+      "rows": 120,
+      "valid_rows": 118,
+      "rejected_rows": 2,
+      "validity_rate": 0.983333
+    },
+    "products.csv": {
+      "rows": 40,
+      "valid_rows": 40,
+      "rejected_rows": 0,
+      "validity_rate": 1.0
+    },
+    "stores.csv": {
+      "rows": 6,
+      "valid_rows": 6,
+      "rejected_rows": 0,
+      "validity_rate": 1.0
+    },
+    "promotions.csv": {
+      "rows": 6,
+      "valid_rows": 6,
+      "rejected_rows": 0,
+      "validity_rate": 1.0
+    },
+    "orders.csv": {
+      "rows": 600,
+      "valid_rows": 576,
+      "rejected_rows": 24,
+      "validity_rate": 0.96
+    },
+    "order_items.csv": {
+      "rows": 1505,
+      "valid_rows": 1439,
+      "rejected_rows": 66,
+      "validity_rate": 0.956146
+    },
+    "inventory_snapshots.csv": {
+      "rows": 2880,
+      "valid_rows": 2880,
+      "rejected_rows": 0,
+      "validity_rate": 1.0
+    }
+  },
+  "contract": {
+    "status": "passed",
+    "missing_expected": [],
+    "unexpected_root_issues": []
+  }
+}

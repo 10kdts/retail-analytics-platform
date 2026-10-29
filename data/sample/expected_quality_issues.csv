@@ -1,0 +1,6 @@
+﻿issue_id,file,record_key,rule,description
+DQ001,customers.csv,C00005,state_not_null,UF ausente
+DQ002,customers.csv,C00010,email_unique,E-mail duplicado
+DQ003,orders.csv,O0000015,valid_channel,Canal fora do domínio
+DQ004,order_items.csv,O0000007-3,quantity_positive,Quantidade negativa
+DQ005,order_items.csv,O0000009-2,order_fk,Pedido pai inexistente

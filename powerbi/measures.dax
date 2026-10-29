@@ -1,0 +1,107 @@
+// Tabela de medidas: _Measures
+
+Receita Bruta =
+CALCULATE(
+    SUM(fact_sales[gross_revenue]),
+    fact_sales[order_status] = "Completed"
+)
+
+Descontos =
+CALCULATE(
+    SUM(fact_sales[discount_amount]),
+    fact_sales[order_status] = "Completed"
+)
+
+Receita Líquida =
+CALCULATE(
+    SUM(fact_sales[net_revenue]),
+    fact_sales[order_status] = "Completed"
+)
+
+Custo dos Produtos =
+CALCULATE(
+    SUM(fact_sales[cost_of_goods]),
+    fact_sales[order_status] = "Completed"
+)
+
+Margem Bruta =
+[Receita Líquida] - [Custo dos Produtos]
+
+Margem % =
+DIVIDE([Margem Bruta], [Receita Líquida])
+
+Pedidos =
+CALCULATE(
+    DISTINCTCOUNT(fact_sales[order_id]),
+    fact_sales[order_status] = "Completed"
+)
+
+Itens Vendidos =
+CALCULATE(
+    SUM(fact_sales[quantity]),
+    fact_sales[order_status] = "Completed"
+)
+
+Ticket Médio =
+DIVIDE([Receita Líquida], [Pedidos])
+
+Clientes Ativos =
+CALCULATE(
+    DISTINCTCOUNT(dim_customer[customer_id]),
+    fact_sales[order_status] = "Completed"
+)
+
+Receita Mês Anterior =
+CALCULATE([Receita Líquida], DATEADD(dim_date[full_date], -1, MONTH))
+
+Crescimento MoM % =
+DIVIDE([Receita Líquida] - [Receita Mês Anterior], [Receita Mês Anterior])
+
+Receita Ano Anterior =
+CALCULATE([Receita Líquida], SAMEPERIODLASTYEAR(dim_date[full_date]))
+
+Crescimento YoY % =
+DIVIDE([Receita Líquida] - [Receita Ano Anterior], [Receita Ano Anterior])
+
+Pedidos Cancelados =
+CALCULATE(
+    DISTINCTCOUNT(fact_sales[order_id]),
+    fact_sales[order_status] = "Cancelled"
+)
+
+Taxa de Cancelamento % =
+DIVIDE(
+    [Pedidos Cancelados],
+    DISTINCTCOUNT(fact_sales[order_id])
+)
+
+Clientes Recorrentes =
+COUNTROWS(
+    FILTER(
+        VALUES(dim_customer[customer_id]),
+        CALCULATE(DISTINCTCOUNT(fact_sales[order_id]), fact_sales[order_status] = "Completed") >= 2
+    )
+)
+
+Taxa de Recompra % =
+DIVIDE([Clientes Recorrentes], [Clientes Ativos])
+
+Estoque Disponível =
+SUM(fact_inventory_snapshot[on_hand_quantity])
+
+Produtos para Reposição =
+COUNTROWS(
+    FILTER(
+        fact_inventory_snapshot,
+        fact_inventory_snapshot[on_hand_quantity] <= fact_inventory_snapshot[reorder_point]
+    )
+)
+
+Receita Meta =
+[Receita Ano Anterior] * 1.10
+
+Atingimento da Meta % =
+DIVIDE([Receita Líquida], [Receita Meta])
+
+Última Data de Venda =
+MAX(dim_date[full_date])

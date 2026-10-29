@@ -1,0 +1,7 @@
+﻿promotion_id,promotion_name,start_date,end_date,discount_rate
+PR001,Volta às aulas,2024-01-15,2024-02-20,0.10
+PR002,Black Friday,2024-11-20,2024-11-30,0.20
+PR003,Natal,2024-12-01,2024-12-24,0.12
+PR004,Volta às aulas,2025-01-15,2025-02-20,0.10
+PR005,Black Friday,2025-11-20,2025-11-30,0.22
+PR006,Natal,2025-12-01,2025-12-24,0.12

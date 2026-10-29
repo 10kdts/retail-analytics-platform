@@ -1,0 +1,121 @@
+﻿customer_id,full_name,email,birth_year,city,state,signup_date,segment,marketing_consent
+C00001,Isabela Souza,cliente00001@example.com,1981,Salvador,BA,2024-10-04,Consumer,false
+C00002,Rafael Cardoso,cliente00002@example.com,1967,São Paulo,SP,2023-02-19,Consumer,false
+C00003,Otávio Cardoso,cliente00003@example.com,1996,Curitiba,PR,2024-08-29,Small Business,true
+C00004,Ana Dias,cliente00004@example.com,1975,Recife,PE,2025-07-13,Premium,true
+C00005,João Souza,cliente00005@example.com,1958,Rio de Janeiro,,2025-01-24,Small Business,false
+C00006,Isabela Gomes,cliente00006@example.com,1998,Salvador,BA,2023-02-12,Consumer,true
+C00007,Gabriela Ferreira,cliente00007@example.com,1992,Belo Horizonte,MG,2023-06-05,Small Business,false
+C00008,Ana Rocha,cliente00008@example.com,1965,Curitiba,PR,2022-08-18,Small Business,false
+C00009,João Martins,cliente00009@example.com,1994,São Paulo,SP,2023-11-15,Small Business,true
+C00010,Rafael Cardoso,cliente00009@example.com,1966,Salvador,BA,2023-03-24,Consumer,false
+C00011,Felipe Oliveira,cliente00011@example.com,1985,Salvador,BA,2025-12-03,Small Business,false
+C00012,Gabriela Pereira,cliente00012@example.com,1986,Curitiba,PR,2024-08-12,Premium,true
+C00013,Henrique Martins,cliente00013@example.com,1959,São Paulo,SP,2024-06-01,Consumer,true
+C00014,Henrique Almeida,cliente00014@example.com,1972,São Paulo,SP,2022-11-07,Consumer,true
+C00015,Larissa Cardoso,cliente00015@example.com,1975,Salvador,BA,2023-11-09,Consumer,true
+C00016,Eduarda Vieira,cliente00016@example.com,1984,Rio de Janeiro,RJ,2025-03-04,Consumer,true
+C00017,Otávio Santos,cliente00017@example.com,1987,Curitiba,PR,2024-10-28,Premium,true
+C00018,Daniel Barbosa,cliente00018@example.com,1964,Curitiba,PR,2024-06-03,Consumer,true
+C00019,Paula Ferreira,cliente00019@example.com,1975,Curitiba,PR,2023-07-20,Consumer,false
+C00020,Carla Teixeira,cliente00020@example.com,1961,Salvador,BA,2023-01-26,Consumer,true
+C00021,Ana Cardoso,cliente00021@example.com,1984,Rio de Janeiro,RJ,2023-06-15,Consumer,true
+C00022,Natália Barbosa,cliente00022@example.com,1958,Rio de Janeiro,RJ,2024-08-24,Small Business,true
+C00023,Paula Pereira,cliente00023@example.com,2000,Curitiba,PR,2025-08-21,Premium,true
+C00024,João Lima,cliente00024@example.com,1992,São Paulo,SP,2025-10-08,Consumer,true
+C00025,Bruno Vieira,cliente00025@example.com,1968,Salvador,BA,2025-07-01,Consumer,true
+C00026,Felipe Cardoso,cliente00026@example.com,2001,Salvador,BA,2022-11-26,Premium,true
+C00027,Henrique Barbosa,cliente00027@example.com,1984,Salvador,BA,2022-12-24,Consumer,true
+C00028,Larissa Oliveira,cliente00028@example.com,1973,Rio de Janeiro,RJ,2024-04-13,Consumer,true
+C00029,João Teixeira,cliente00029@example.com,1958,Belo Horizonte,MG,2022-12-05,Consumer,false
+C00030,Daniel Cardoso,cliente00030@example.com,1990,Salvador,BA,2023-09-19,Consumer,false
+C00031,Carla Martins,cliente00031@example.com,1968,Belo Horizonte,MG,2024-02-13,Consumer,true
+C00032,João Almeida,cliente00032@example.com,1977,Recife,PE,2025-08-18,Small Business,true
+C00033,Eduarda Oliveira,cliente00033@example.com,1993,São Paulo,SP,2023-02-14,Consumer,true
+C00034,Gabriela Rocha,cliente00034@example.com,1990,Rio de Janeiro,RJ,2024-01-01,Consumer,false
+C00035,Bruno Cardoso,cliente00035@example.com,1975,Recife,PE,2024-11-23,Consumer,true
+C00036,Eduarda Oliveira,cliente00036@example.com,1993,Rio de Janeiro,RJ,2024-12-30,Premium,true
+C00037,Daniel Cardoso,cliente00037@example.com,1992,Recife,PE,2023-05-11,Consumer,true
+C00038,Eduarda Souza,cliente00038@example.com,1977,Rio de Janeiro,RJ,2022-10-03,Consumer,false
+C00039,Bruno Santos,cliente00039@example.com,2000,Rio de Janeiro,RJ,2023-12-03,Consumer,false
+C00040,Otávio Ferreira,cliente00040@example.com,1969,Rio de Janeiro,RJ,2023-06-07,Premium,true
+C00041,Larissa Souza,cliente00041@example.com,1975,Recife,PE,2023-11-30,Consumer,true
+C00042,Natália Barbosa,cliente00042@example.com,1970,Curitiba,PR,2023-10-08,Premium,true
+C00043,João Martins,cliente00043@example.com,2000,Rio de Janeiro,RJ,2022-08-27,Consumer,true
+C00044,Carla Oliveira,cliente00044@example.com,1983,Belo Horizonte,MG,2025-05-18,Consumer,false
+C00045,Larissa Almeida,cliente00045@example.com,1969,São Paulo,SP,2023-12-26,Consumer,false
+C00046,Bruno Dias,cliente00046@example.com,1980,Salvador,BA,2024-12-15,Premium,true
+C00047,Daniel Silva,cliente00047@example.com,1974,Salvador,BA,2023-08-03,Consumer,true
+C00048,Gabriela Santos,cliente00048@example.com,2000,Curitiba,PR,2022-11-30,Small Business,true
+C00049,Daniel Pereira,cliente00049@example.com,2000,Salvador,BA,2024-04-03,Consumer,true
+C00050,João Ferreira,cliente00050@example.com,2000,Rio de Janeiro,RJ,2024-11-17,Small Business,true
+C00051,Felipe Pereira,cliente00051@example.com,1958,Curitiba,PR,2025-08-05,Consumer,true
+C00052,Larissa Teixeira,cliente00052@example.com,2001,Curitiba,PR,2024-12-31,Consumer,true
+C00053,Felipe Cardoso,cliente00053@example.com,2000,Belo Horizonte,MG,2025-05-30,Consumer,true
+C00054,Henrique Pereira,cliente00054@example.com,1967,Rio de Janeiro,RJ,2023-08-21,Consumer,true
+C00055,Rafael Cardoso,cliente00055@example.com,1998,Curitiba,PR,2024-11-04,Consumer,true
+C00056,Natália Vieira,cliente00056@example.com,1967,Curitiba,PR,2023-11-21,Consumer,true
+C00057,Daniel Souza,cliente00057@example.com,2002,Rio de Janeiro,RJ,2023-07-05,Consumer,true
+C00058,Henrique Dias,cliente00058@example.com,1987,Curitiba,PR,2023-04-09,Consumer,false
+C00059,Larissa Teixeira,cliente00059@example.com,1985,Salvador,BA,2025-05-08,Premium,true
+C00060,Felipe Vieira,cliente00060@example.com,1973,Curitiba,PR,2023-12-22,Premium,true
+C00061,Rafael Martins,cliente00061@example.com,1962,Belo Horizonte,MG,2024-12-26,Premium,true
+C00062,Larissa Rocha,cliente00062@example.com,1966,Salvador,BA,2022-12-22,Consumer,true
+C00063,Eduarda Lima,cliente00063@example.com,1984,São Paulo,SP,2024-11-05,Consumer,true
+C00064,Bruno Lima,cliente00064@example.com,1995,Curitiba,PR,2024-09-14,Small Business,true
+C00065,Natália Vieira,cliente00065@example.com,1977,São Paulo,SP,2024-06-29,Premium,false
+C00066,Otávio Martins,cliente00066@example.com,1975,Curitiba,PR,2023-10-02,Consumer,true
+C00067,Larissa Silva,cliente00067@example.com,1987,Recife,PE,2023-06-13,Small Business,false
+C00068,Ana Silva,cliente00068@example.com,2000,Salvador,BA,2025-09-07,Consumer,true
+C00069,Eduarda Teixeira,cliente00069@example.com,1974,Rio de Janeiro,RJ,2022-10-20,Consumer,true
+C00070,Larissa Rocha,cliente00070@example.com,1984,Curitiba,PR,2024-01-30,Consumer,true
+C00071,Ana Barbosa,cliente00071@example.com,1999,Belo Horizonte,MG,2023-10-12,Consumer,false
+C00072,Bruno Almeida,cliente00072@example.com,1959,Rio de Janeiro,RJ,2023-08-22,Consumer,true
+C00073,Rafael Dias,cliente00073@example.com,1987,Salvador,BA,2023-09-29,Consumer,false
+C00074,Felipe Dias,cliente00074@example.com,1964,Rio de Janeiro,RJ,2024-04-07,Consumer,false
+C00075,Natália Silva,cliente00075@example.com,1962,Recife,PE,2023-08-20,Consumer,false
+C00076,Henrique Dias,cliente00076@example.com,2001,Recife,PE,2024-03-18,Consumer,true
+C00077,Bruno Santos,cliente00077@example.com,2000,Salvador,BA,2024-12-03,Consumer,true
+C00078,Larissa Almeida,cliente00078@example.com,1964,Curitiba,PR,2025-04-08,Consumer,true
+C00079,Paula Ferreira,cliente00079@example.com,2004,Curitiba,PR,2023-07-05,Consumer,true
+C00080,Rafael Teixeira,cliente00080@example.com,1975,Curitiba,PR,2025-11-04,Consumer,true
+C00081,Carla Oliveira,cliente00081@example.com,1987,Curitiba,PR,2023-11-21,Consumer,true
+C00082,Larissa Almeida,cliente00082@example.com,1969,Curitiba,PR,2024-05-05,Consumer,true
+C00083,Isabela Rocha,cliente00083@example.com,2002,Belo Horizonte,MG,2025-11-11,Premium,true
+C00084,Gabriela Cardoso,cliente00084@example.com,1989,Rio de Janeiro,RJ,2024-10-19,Consumer,true
+C00085,Rafael Vieira,cliente00085@example.com,1963,Curitiba,PR,2022-08-14,Consumer,true
+C00086,Henrique Pereira,cliente00086@example.com,1981,Recife,PE,2025-10-13,Consumer,true
+C00087,Otávio Rocha,cliente00087@example.com,1975,Belo Horizonte,MG,2025-01-24,Consumer,true
+C00088,Gabriela Rocha,cliente00088@example.com,2002,São Paulo,SP,2025-07-11,Consumer,true
+C00089,Rafael Oliveira,cliente00089@example.com,1991,Recife,PE,2025-10-29,Consumer,false
+C00090,Gabriela Pereira,cliente00090@example.com,1969,Rio de Janeiro,RJ,2024-07-18,Consumer,true
+C00091,Eduarda Oliveira,cliente00091@example.com,1993,São Paulo,SP,2022-10-29,Consumer,false
+C00092,Rafael Dias,cliente00092@example.com,1976,São Paulo,SP,2025-09-27,Consumer,true
+C00093,Felipe Barbosa,cliente00093@example.com,1965,Belo Horizonte,MG,2025-03-14,Premium,true
+C00094,Carla Barbosa,cliente00094@example.com,1994,Rio de Janeiro,RJ,2023-05-11,Small Business,true
+C00095,Henrique Dias,cliente00095@example.com,1996,Salvador,BA,2024-11-08,Consumer,true
+C00096,Natália Teixeira,cliente00096@example.com,1995,Curitiba,PR,2024-03-09,Small Business,true
+C00097,Bruno Dias,cliente00097@example.com,1974,Rio de Janeiro,RJ,2023-09-15,Consumer,true
+C00098,Felipe Cardoso,cliente00098@example.com,1984,Rio de Janeiro,RJ,2022-07-15,Consumer,true
+C00099,João Barbosa,cliente00099@example.com,2003,Rio de Janeiro,RJ,2024-02-20,Consumer,false
+C00100,Carla Martins,cliente00100@example.com,2000,Belo Horizonte,MG,2025-10-29,Premium,true
+C00101,Daniel Martins,cliente00101@example.com,1975,Recife,PE,2023-05-11,Premium,true
+C00102,Felipe Pereira,cliente00102@example.com,1976,Salvador,BA,2025-09-17,Consumer,true
+C00103,João Silva,cliente00103@example.com,1992,Belo Horizonte,MG,2025-04-29,Consumer,true
+C00104,Bruno Souza,cliente00104@example.com,1996,Recife,PE,2024-04-30,Consumer,true
+C00105,Ana Oliveira,cliente00105@example.com,1969,Salvador,BA,2022-09-30,Consumer,true
+C00106,Isabela Gomes,cliente00106@example.com,1998,Salvador,BA,2024-12-18,Premium,false
+C00107,Rafael Santos,cliente00107@example.com,1978,Curitiba,PR,2024-05-22,Consumer,false
+C00108,Larissa Souza,cliente00108@example.com,1976,Recife,PE,2025-04-19,Consumer,true
+C00109,Bruno Teixeira,cliente00109@example.com,1974,São Paulo,SP,2024-04-14,Consumer,false
+C00110,Natália Almeida,cliente00110@example.com,1987,Recife,PE,2025-07-25,Consumer,true
+C00111,Marcos Vieira,cliente00111@example.com,1961,Recife,PE,2024-12-31,Consumer,true
+C00112,João Teixeira,cliente00112@example.com,1965,Recife,PE,2025-03-28,Consumer,true
+C00113,Henrique Gomes,cliente00113@example.com,1958,Belo Horizonte,MG,2025-08-11,Consumer,true
+C00114,Daniel Teixeira,cliente00114@example.com,1989,São Paulo,SP,2023-05-21,Small Business,true
+C00115,Isabela Souza,cliente00115@example.com,1973,Curitiba,PR,2025-03-03,Consumer,true
+C00116,Gabriela Ferreira,cliente00116@example.com,1984,São Paulo,SP,2024-01-26,Consumer,false
+C00117,Isabela Almeida,cliente00117@example.com,1995,Belo Horizonte,MG,2024-03-12,Consumer,true
+C00118,Eduarda Teixeira,cliente00118@example.com,1980,Salvador,BA,2025-03-27,Consumer,false
+C00119,Natália Teixeira,cliente00119@example.com,2002,Belo Horizonte,MG,2023-07-31,Consumer,true
+C00120,Otávio Barbosa,cliente00120@example.com,2003,Belo Horizonte,MG,2025-03-04,Small Business,true

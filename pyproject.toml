@@ -1,0 +1,16 @@
+[project]
+name = "retail-analytics"
+version = "0.1.0"
+description = "Plataforma analítica de varejo para portfólio de dados"
+requires-python = ">=3.10"
+dependencies = ["psycopg[binary]>=3.2,<4"]
+
+[project.scripts]
+retail-ingest = "src.retail_data.ingest:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

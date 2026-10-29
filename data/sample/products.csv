@@ -1,0 +1,41 @@
+﻿product_id,product_name,category,brand,unit_cost,list_price,active
+P0001,Fone 01,Eletrônicos,Marca 1,143.56,196.68,true
+P0002,Teclado 02,Eletrônicos,Marca 2,66.31,101.36,true
+P0003,Mouse 03,Eletrônicos,Marca 3,164.13,310.43,true
+P0004,Webcam 04,Eletrônicos,Marca 4,197.14,279.85,true
+P0005,Caixa de som 05,Eletrônicos,Marca 5,97.45,133.88,true
+P0006,Luminária 06,Casa,Marca 6,54.35,95.35,true
+P0007,Organizador 07,Casa,Marca 7,13.63,20.57,true
+P0008,Jogo de copos 08,Casa,Marca 8,145.78,260.36,true
+P0009,Toalha 09,Casa,Marca 1,54.73,99.69,true
+P0010,Almofada 10,Casa,Marca 2,179.60,243.39,true
+P0011,Garrafa 11,Esporte,Marca 3,178.83,341.30,true
+P0012,Tapete 12,Esporte,Marca 4,80.13,118.14,true
+P0013,Corda 13,Esporte,Marca 5,210.93,341.55,true
+P0014,Mochila 14,Esporte,Marca 6,27.66,39.48,true
+P0015,Faixa elástica 15,Esporte,Marca 7,187.67,344.00,true
+P0016,Caderno 16,Papelaria,Marca 8,179.11,346.36,true
+P0017,Caneta 17,Papelaria,Marca 1,121.68,258.99,true
+P0018,Planner 18,Papelaria,Marca 2,88.25,158.11,true
+P0019,Estojo 19,Papelaria,Marca 3,183.83,339.13,true
+P0020,Marcador 20,Papelaria,Marca 4,190.68,345.49,true
+P0021,Fone 21,Eletrônicos,Marca 5,157.37,218.22,true
+P0022,Teclado 22,Eletrônicos,Marca 6,56.31,89.05,true
+P0023,Mouse 23,Eletrônicos,Marca 7,24.92,38.28,true
+P0024,Webcam 24,Eletrônicos,Marca 8,29.41,46.24,true
+P0025,Caixa de som 25,Eletrônicos,Marca 1,142.77,234.41,true
+P0026,Luminária 26,Casa,Marca 2,86.48,131.24,true
+P0027,Organizador 27,Casa,Marca 3,64.60,135.62,true
+P0028,Jogo de copos 28,Casa,Marca 4,145.38,267.11,true
+P0029,Toalha 29,Casa,Marca 5,44.28,85.61,true
+P0030,Almofada 30,Casa,Marca 6,42.64,70.51,true
+P0031,Garrafa 31,Esporte,Marca 7,217.78,405.51,true
+P0032,Tapete 32,Esporte,Marca 8,126.07,239.24,true
+P0033,Corda 33,Esporte,Marca 1,186.68,367.91,true
+P0034,Mochila 34,Esporte,Marca 2,56.56,77.81,true
+P0035,Faixa elástica 35,Esporte,Marca 3,74.88,117.13,true
+P0036,Caderno 36,Papelaria,Marca 4,52.73,110.96,true
+P0037,Caneta 37,Papelaria,Marca 5,193.79,310.40,true
+P0038,Planner 38,Papelaria,Marca 6,146.95,244.89,true
+P0039,Estojo 39,Papelaria,Marca 7,201.88,346.64,true
+P0040,Marcador 40,Papelaria,Marca 8,64.15,99.26,true

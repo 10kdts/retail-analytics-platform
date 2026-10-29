@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_DB: retail_analytics
+          POSTGRES_USER: retail_user
+          POSTGRES_PASSWORD: ci_password
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U retail_user -d retail_analytics"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      POSTGRES_DB: retail_analytics
+      POSTGRES_USER: retail_user
+      POSTGRES_PASSWORD: ci_password
+      POSTGRES_HOST: localhost
+      POSTGRES_PORT: "5432"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install project
+        run: pip install -e .
+      - name: Compile Python
+        run: python -m compileall -q src tests
+      - name: Unit and contract tests
+        run: python -m unittest discover -s tests -v
+      - name: Regenerate governed artifacts
+        run: |
+          python -m src.retail_data.quality
+          python -m src.retail_data.dashboard_preview
+      - name: Bootstrap database
+        run: python -m src.retail_data.bootstrap
+      - name: Ingest data
+        run: python -m src.retail_data.ingest --data-dir data/sample --max-attempts 3
+      - name: Build dimensional marts
+        run: python -m src.retail_data.bootstrap --marts
+      - name: Integration checks
+        run: python -m src.retail_data.integration_check
+      - name: Upload quality evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: quality-evidence
+          path: |
+            data/quality_report.json
+            docs/generated_quality_report.md
+            docs/dashboard_preview.svg

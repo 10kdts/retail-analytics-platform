@@ -1,0 +1,17 @@
+{
+  "dataset": "retail-analytics-synthetic",
+  "seed": 42,
+  "period_start": "2024-01-01",
+  "period_end": "2025-12-31",
+  "quality_issues_injected": true,
+  "row_counts": {
+    "customers.csv": 120,
+    "products.csv": 40,
+    "stores.csv": 6,
+    "promotions.csv": 6,
+    "orders.csv": 600,
+    "order_items.csv": 1505,
+    "inventory_snapshots.csv": 2880,
+    "expected_quality_issues.csv": 5
+  }
+}

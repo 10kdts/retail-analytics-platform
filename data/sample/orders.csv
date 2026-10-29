@@ -1,0 +1,601 @@
+﻿order_id,customer_id,store_id,order_date,channel,payment_method,status
+O0000001,C00069,S001,2025-11-10,Loja física,Boleto,Completed
+O0000002,C00004,,2025-11-01,E-commerce,Pix,Completed
+O0000003,C00004,,2025-07-08,E-commerce,Boleto,Completed
+O0000004,C00075,,2024-04-12,Marketplace,Pix,Completed
+O0000005,C00004,,2024-07-03,Marketplace,Cartão,Completed
+O0000006,C00091,,2025-11-13,Marketplace,Cartão,Completed
+O0000007,C00034,S003,2025-05-09,Loja física,Cartão,Returned
+O0000008,C00013,S006,2024-12-26,Loja física,Pix,Completed
+O0000009,C00008,,2025-08-16,Marketplace,Cartão,Completed
+O0000010,C00094,,2024-06-17,E-commerce,Pix,Completed
+O0000011,C00089,S005,2025-07-24,Loja física,Cartão,Completed
+O0000012,C00064,,2025-07-28,E-commerce,Cartão,Completed
+O0000013,C00103,S004,2024-04-28,Loja física,Boleto,Completed
+O0000014,C00042,,2025-12-07,Marketplace,Cartão,Completed
+O0000015,C00029,,2024-01-22,Social Commerce,Cartão,Completed
+O0000016,C00099,S002,2025-09-02,Loja física,Pix,Completed
+O0000017,C00003,,2024-01-17,E-commerce,Pix,Completed
+O0000018,C00046,S006,2024-02-01,Loja física,Pix,Completed
+O0000019,C00104,S004,2024-08-08,Loja física,Pix,Completed
+O0000020,C00005,S006,2024-03-09,Loja física,Pix,Completed
+O0000021,C00008,S006,2025-07-29,Loja física,Cartão,Cancelled
+O0000022,C00050,S004,2024-12-26,Loja física,Cartão,Completed
+O0000023,C00013,,2025-12-11,E-commerce,Cartão,Completed
+O0000024,C00082,,2025-02-14,Marketplace,Cartão,Completed
+O0000025,C00042,S005,2025-11-21,Loja física,Cartão,Completed
+O0000026,C00053,S002,2025-11-25,Loja física,Pix,Completed
+O0000027,C00001,,2024-10-23,E-commerce,Cartão,Completed
+O0000028,C00082,S004,2024-03-14,Loja física,Pix,Completed
+O0000029,C00075,S004,2025-09-24,Loja física,Cartão,Completed
+O0000030,C00050,,2025-10-10,Marketplace,Pix,Completed
+O0000031,C00085,S006,2025-09-08,Loja física,Pix,Completed
+O0000032,C00050,S004,2025-08-28,Loja física,Cartão,Completed
+O0000033,C00049,,2024-11-25,Marketplace,Pix,Completed
+O0000034,C00087,,2024-10-16,E-commerce,Pix,Completed
+O0000035,C00071,,2024-12-07,Marketplace,Pix,Completed
+O0000036,C00001,S002,2025-03-09,Loja física,Pix,Completed
+O0000037,C00054,,2024-04-13,E-commerce,Pix,Completed
+O0000038,C00092,S004,2025-12-10,Loja física,Cartão,Completed
+O0000039,C00112,,2024-07-17,Marketplace,Cartão,Completed
+O0000040,C00033,,2025-10-18,Marketplace,Cartão,Completed
+O0000041,C00106,S004,2024-06-13,Loja física,Pix,Completed
+O0000042,C00110,,2024-08-17,E-commerce,Pix,Completed
+O0000043,C00001,S003,2025-04-25,Loja física,Cartão,Completed
+O0000044,C00106,,2024-03-05,E-commerce,Cartão,Completed
+O0000045,C00052,,2025-01-04,E-commerce,Cartão,Returned
+O0000046,C00086,,2025-11-03,E-commerce,Cartão,Completed
+O0000047,C00015,,2025-04-13,E-commerce,Cartão,Completed
+O0000048,C00088,,2024-10-19,Marketplace,Cartão,Completed
+O0000049,C00005,S004,2025-06-15,Loja física,Pix,Completed
+O0000050,C00042,S006,2025-03-12,Loja física,Cartão,Completed
+O0000051,C00002,S006,2025-11-25,Loja física,Cartão,Completed
+O0000052,C00085,,2025-01-14,E-commerce,Cartão,Completed
+O0000053,C00087,,2025-07-29,E-commerce,Pix,Completed
+O0000054,C00118,,2025-11-29,E-commerce,Cartão,Completed
+O0000055,C00059,S005,2024-01-27,Loja física,Pix,Completed
+O0000056,C00027,S004,2024-03-16,Loja física,Cartão,Completed
+O0000057,C00027,,2024-11-07,E-commerce,Boleto,Completed
+O0000058,C00005,,2024-11-06,E-commerce,Pix,Completed
+O0000059,C00113,,2024-01-30,E-commerce,Cartão,Completed
+O0000060,C00044,S002,2025-03-26,Loja física,Pix,Completed
+O0000061,C00019,S003,2024-05-05,Loja física,Pix,Cancelled
+O0000062,C00026,S004,2025-04-23,Loja física,Boleto,Completed
+O0000063,C00103,,2024-04-20,E-commerce,Cartão,Completed
+O0000064,C00119,,2025-07-17,E-commerce,Boleto,Completed
+O0000065,C00010,,2025-04-30,Marketplace,Boleto,Completed
+O0000066,C00046,S003,2025-12-26,Loja física,Boleto,Completed
+O0000067,C00074,S006,2025-01-24,Loja física,Cartão,Completed
+O0000068,C00071,,2025-07-28,E-commerce,Cartão,Completed
+O0000069,C00112,,2025-07-25,Marketplace,Pix,Completed
+O0000070,C00105,S003,2025-11-23,Loja física,Pix,Cancelled
+O0000071,C00082,S001,2024-05-20,Loja física,Cartão,Completed
+O0000072,C00056,,2024-05-20,Marketplace,Boleto,Completed
+O0000073,C00096,,2024-06-28,Marketplace,Pix,Completed
+O0000074,C00092,S006,2025-04-24,Loja física,Cartão,Completed
+O0000075,C00099,,2024-07-16,Marketplace,Cartão,Completed
+O0000076,C00019,S002,2025-05-03,Loja física,Cartão,Completed
+O0000077,C00037,,2025-04-21,E-commerce,Pix,Completed
+O0000078,C00076,,2025-09-12,Marketplace,Pix,Completed
+O0000079,C00057,S005,2025-01-05,Loja física,Cartão,Completed
+O0000080,C00060,S005,2025-11-27,Loja física,Cartão,Completed
+O0000081,C00039,,2025-08-15,E-commerce,Cartão,Completed
+O0000082,C00009,,2025-02-22,E-commerce,Boleto,Completed
+O0000083,C00054,,2024-05-01,E-commerce,Cartão,Completed
+O0000084,C00034,S004,2025-07-11,Loja física,Cartão,Completed
+O0000085,C00004,,2024-01-17,E-commerce,Pix,Completed
+O0000086,C00120,S006,2024-02-27,Loja física,Cartão,Completed
+O0000087,C00113,,2024-10-08,Marketplace,Pix,Completed
+O0000088,C00025,S005,2025-03-02,Loja física,Pix,Completed
+O0000089,C00020,S001,2024-05-17,Loja física,Pix,Completed
+O0000090,C00034,,2024-07-14,E-commerce,Cartão,Completed
+O0000091,C00013,,2024-01-16,E-commerce,Pix,Completed
+O0000092,C00032,,2025-01-02,Marketplace,Pix,Completed
+O0000093,C00028,S002,2024-10-29,Loja física,Pix,Completed
+O0000094,C00108,,2025-07-13,E-commerce,Cartão,Completed
+O0000095,C00001,S006,2025-11-15,Loja física,Pix,Completed
+O0000096,C00068,,2025-01-17,Marketplace,Pix,Completed
+O0000097,C00093,,2024-10-20,E-commerce,Pix,Completed
+O0000098,C00052,,2024-09-03,E-commerce,Cartão,Completed
+O0000099,C00034,S006,2024-04-05,Loja física,Cartão,Completed
+O0000100,C00109,,2025-05-01,E-commerce,Cartão,Completed
+O0000101,C00015,S006,2024-11-18,Loja física,Boleto,Completed
+O0000102,C00084,S006,2025-07-07,Loja física,Cartão,Completed
+O0000103,C00022,,2024-11-30,Marketplace,Cartão,Completed
+O0000104,C00006,S003,2025-02-02,Loja física,Pix,Completed
+O0000105,C00005,,2025-02-21,E-commerce,Pix,Completed
+O0000106,C00025,,2024-06-22,E-commerce,Cartão,Completed
+O0000107,C00113,S005,2024-05-18,Loja física,Pix,Completed
+O0000108,C00076,,2024-11-22,E-commerce,Cartão,Completed
+O0000109,C00024,,2024-08-02,E-commerce,Pix,Completed
+O0000110,C00108,,2025-07-01,E-commerce,Pix,Completed
+O0000111,C00006,S006,2025-03-16,Loja física,Pix,Completed
+O0000112,C00001,S004,2024-06-03,Loja física,Cartão,Completed
+O0000113,C00046,S006,2025-06-17,Loja física,Cartão,Completed
+O0000114,C00073,S006,2024-12-17,Loja física,Cartão,Completed
+O0000115,C00082,,2025-03-18,Marketplace,Cartão,Completed
+O0000116,C00003,S005,2025-12-21,Loja física,Cartão,Completed
+O0000117,C00024,,2025-11-20,E-commerce,Cartão,Completed
+O0000118,C00035,,2025-12-11,E-commerce,Cartão,Completed
+O0000119,C00005,S002,2025-03-30,Loja física,Cartão,Completed
+O0000120,C00095,,2025-03-11,E-commerce,Boleto,Completed
+O0000121,C00040,,2025-12-28,E-commerce,Pix,Completed
+O0000122,C00077,S003,2024-06-21,Loja física,Cartão,Cancelled
+O0000123,C00078,,2024-05-15,E-commerce,Pix,Completed
+O0000124,C00047,,2025-01-12,E-commerce,Pix,Completed
+O0000125,C00003,,2025-12-15,E-commerce,Cartão,Completed
+O0000126,C00002,,2025-11-29,E-commerce,Cartão,Completed
+O0000127,C00110,S006,2024-11-05,Loja física,Cartão,Completed
+O0000128,C00005,S002,2024-08-27,Loja física,Cartão,Completed
+O0000129,C00034,,2025-05-04,E-commerce,Cartão,Completed
+O0000130,C00079,,2024-06-17,E-commerce,Cartão,Completed
+O0000131,C00019,,2024-11-18,E-commerce,Pix,Completed
+O0000132,C00068,S001,2024-04-25,Loja física,Boleto,Returned
+O0000133,C00004,S001,2024-03-15,Loja física,Boleto,Completed
+O0000134,C00004,,2024-10-11,Marketplace,Cartão,Returned
+O0000135,C00005,S004,2024-09-01,Loja física,Cartão,Completed
+O0000136,C00030,,2024-06-16,E-commerce,Cartão,Completed
+O0000137,C00032,,2025-05-23,E-commerce,Cartão,Completed
+O0000138,C00045,S002,2024-01-13,Loja física,Boleto,Completed
+O0000139,C00027,S006,2025-11-02,Loja física,Pix,Completed
+O0000140,C00045,S003,2025-02-14,Loja física,Cartão,Completed
+O0000141,C00019,S004,2024-11-07,Loja física,Pix,Returned
+O0000142,C00096,,2025-07-08,Marketplace,Cartão,Cancelled
+O0000143,C00017,,2024-04-05,E-commerce,Pix,Completed
+O0000144,C00021,S004,2024-05-13,Loja física,Pix,Completed
+O0000145,C00006,S003,2025-08-21,Loja física,Cartão,Completed
+O0000146,C00074,,2024-04-02,E-commerce,Cartão,Completed
+O0000147,C00119,S004,2024-11-02,Loja física,Cartão,Completed
+O0000148,C00095,,2024-05-04,Marketplace,Pix,Completed
+O0000149,C00112,S005,2024-12-05,Loja física,Pix,Completed
+O0000150,C00056,S003,2025-05-25,Loja física,Cartão,Completed
+O0000151,C00058,S003,2025-05-11,Loja física,Cartão,Completed
+O0000152,C00060,S002,2025-06-26,Loja física,Pix,Completed
+O0000153,C00061,,2024-06-26,E-commerce,Pix,Completed
+O0000154,C00113,,2025-07-31,E-commerce,Boleto,Completed
+O0000155,C00028,,2025-06-23,E-commerce,Cartão,Completed
+O0000156,C00112,S001,2024-03-15,Loja física,Cartão,Completed
+O0000157,C00081,S002,2024-06-28,Loja física,Boleto,Completed
+O0000158,C00004,S003,2024-05-24,Loja física,Pix,Completed
+O0000159,C00075,S001,2024-09-28,Loja física,Cartão,Completed
+O0000160,C00043,,2025-12-04,E-commerce,Cartão,Completed
+O0000161,C00006,S002,2025-03-20,Loja física,Cartão,Completed
+O0000162,C00032,S003,2025-05-17,Loja física,Pix,Completed
+O0000163,C00045,,2024-11-11,Marketplace,Pix,Completed
+O0000164,C00084,,2025-07-31,E-commerce,Cartão,Completed
+O0000165,C00099,S005,2024-03-21,Loja física,Pix,Completed
+O0000166,C00004,,2024-05-09,E-commerce,Pix,Completed
+O0000167,C00056,,2024-03-09,E-commerce,Cartão,Completed
+O0000168,C00010,,2025-03-05,E-commerce,Boleto,Completed
+O0000169,C00070,,2025-02-24,E-commerce,Cartão,Completed
+O0000170,C00093,S003,2025-01-16,Loja física,Pix,Completed
+O0000171,C00038,,2024-11-24,E-commerce,Cartão,Completed
+O0000172,C00003,S002,2024-09-12,Loja física,Pix,Completed
+O0000173,C00011,,2025-07-18,Marketplace,Pix,Completed
+O0000174,C00069,,2025-11-24,E-commerce,Boleto,Completed
+O0000175,C00091,S006,2024-08-17,Loja física,Cartão,Completed
+O0000176,C00120,,2024-04-14,Marketplace,Cartão,Completed
+O0000177,C00078,,2024-10-10,Marketplace,Cartão,Completed
+O0000178,C00024,,2025-11-02,Marketplace,Pix,Completed
+O0000179,C00025,S006,2025-11-18,Loja física,Cartão,Completed
+O0000180,C00017,S003,2024-12-09,Loja física,Pix,Completed
+O0000181,C00074,,2025-05-27,E-commerce,Pix,Completed
+O0000182,C00100,S001,2025-04-13,Loja física,Pix,Completed
+O0000183,C00041,S004,2024-03-31,Loja física,Cartão,Cancelled
+O0000184,C00053,S001,2024-11-25,Loja física,Cartão,Completed
+O0000185,C00074,S004,2024-12-11,Loja física,Cartão,Completed
+O0000186,C00096,S001,2025-11-08,Loja física,Cartão,Completed
+O0000187,C00052,,2025-11-08,E-commerce,Cartão,Completed
+O0000188,C00088,,2024-04-30,E-commerce,Pix,Completed
+O0000189,C00001,S001,2024-12-04,Loja física,Pix,Completed
+O0000190,C00003,,2024-10-30,E-commerce,Pix,Completed
+O0000191,C00105,,2024-06-23,Marketplace,Pix,Completed
+O0000192,C00076,S002,2024-06-19,Loja física,Pix,Completed
+O0000193,C00038,S003,2025-05-14,Loja física,Cartão,Completed
+O0000194,C00080,,2024-04-07,E-commerce,Pix,Completed
+O0000195,C00045,,2024-06-09,E-commerce,Pix,Completed
+O0000196,C00099,S001,2025-08-09,Loja física,Pix,Returned
+O0000197,C00050,S006,2025-10-14,Loja física,Cartão,Completed
+O0000198,C00065,S006,2024-12-05,Loja física,Cartão,Completed
+O0000199,C00079,,2025-05-19,E-commerce,Pix,Completed
+O0000200,C00087,S006,2025-11-19,Loja física,Cartão,Completed
+O0000201,C00070,,2024-05-11,E-commerce,Pix,Completed
+O0000202,C00076,,2025-06-08,Marketplace,Boleto,Completed
+O0000203,C00078,,2025-12-11,E-commerce,Pix,Completed
+O0000204,C00003,,2024-09-13,E-commerce,Cartão,Completed
+O0000205,C00071,,2025-12-13,Marketplace,Boleto,Completed
+O0000206,C00061,,2025-10-25,E-commerce,Pix,Completed
+O0000207,C00002,S003,2025-06-10,Loja física,Pix,Completed
+O0000208,C00087,,2024-11-26,E-commerce,Cartão,Completed
+O0000209,C00103,,2024-04-04,E-commerce,Cartão,Completed
+O0000210,C00090,S003,2024-11-24,Loja física,Cartão,Completed
+O0000211,C00072,,2025-10-03,E-commerce,Cartão,Completed
+O0000212,C00082,S001,2025-12-20,Loja física,Cartão,Completed
+O0000213,C00035,S001,2025-03-19,Loja física,Pix,Completed
+O0000214,C00089,S001,2025-05-29,Loja física,Boleto,Completed
+O0000215,C00067,S006,2025-07-12,Loja física,Boleto,Completed
+O0000216,C00001,,2024-05-24,E-commerce,Boleto,Completed
+O0000217,C00096,S002,2024-07-07,Loja física,Cartão,Completed
+O0000218,C00072,S002,2025-07-16,Loja física,Cartão,Completed
+O0000219,C00028,,2024-11-21,E-commerce,Cartão,Completed
+O0000220,C00087,,2025-04-18,E-commerce,Pix,Completed
+O0000221,C00103,S001,2024-07-20,Loja física,Pix,Completed
+O0000222,C00002,S005,2025-08-27,Loja física,Pix,Completed
+O0000223,C00032,S002,2025-06-06,Loja física,Pix,Completed
+O0000224,C00047,S003,2024-02-11,Loja física,Pix,Completed
+O0000225,C00070,S006,2025-08-06,Loja física,Cartão,Completed
+O0000226,C00017,,2024-05-22,E-commerce,Cartão,Completed
+O0000227,C00028,S006,2024-08-23,Loja física,Cartão,Completed
+O0000228,C00066,S005,2025-08-29,Loja física,Cartão,Completed
+O0000229,C00112,S005,2025-11-08,Loja física,Pix,Returned
+O0000230,C00080,S004,2025-06-07,Loja física,Cartão,Completed
+O0000231,C00064,S005,2024-06-30,Loja física,Cartão,Completed
+O0000232,C00017,,2025-12-15,E-commerce,Cartão,Completed
+O0000233,C00102,S002,2024-03-26,Loja física,Pix,Completed
+O0000234,C00070,,2025-06-16,E-commerce,Cartão,Completed
+O0000235,C00064,,2025-03-09,Marketplace,Cartão,Completed
+O0000236,C00017,,2025-11-06,E-commerce,Cartão,Cancelled
+O0000237,C00003,S001,2025-09-06,Loja física,Pix,Completed
+O0000238,C00070,,2024-01-11,E-commerce,Cartão,Completed
+O0000239,C00010,,2025-11-01,Marketplace,Cartão,Completed
+O0000240,C00093,S002,2024-12-22,Loja física,Cartão,Completed
+O0000241,C00024,,2025-07-26,Marketplace,Boleto,Completed
+O0000242,C00004,,2025-05-08,E-commerce,Pix,Returned
+O0000243,C00005,,2024-09-26,E-commerce,Cartão,Completed
+O0000244,C00083,,2024-10-02,Marketplace,Pix,Completed
+O0000245,C00006,,2024-12-30,Marketplace,Pix,Completed
+O0000246,C00026,,2025-05-08,Marketplace,Cartão,Completed
+O0000247,C00054,,2025-03-09,E-commerce,Pix,Completed
+O0000248,C00073,S001,2025-12-06,Loja física,Pix,Completed
+O0000249,C00032,S004,2025-12-18,Loja física,Cartão,Completed
+O0000250,C00001,S002,2024-06-02,Loja física,Pix,Returned
+O0000251,C00016,S006,2025-12-08,Loja física,Pix,Completed
+O0000252,C00072,,2024-10-18,E-commerce,Pix,Completed
+O0000253,C00030,S006,2024-03-14,Loja física,Cartão,Completed
+O0000254,C00082,,2025-11-08,E-commerce,Cartão,Completed
+O0000255,C00065,S004,2024-03-26,Loja física,Cartão,Completed
+O0000256,C00116,,2025-07-15,E-commerce,Pix,Completed
+O0000257,C00025,S002,2025-02-26,Loja física,Cartão,Completed
+O0000258,C00086,,2025-05-03,E-commerce,Pix,Completed
+O0000259,C00034,S004,2025-10-23,Loja física,Cartão,Completed
+O0000260,C00043,S006,2024-10-23,Loja física,Cartão,Completed
+O0000261,C00116,S002,2025-07-01,Loja física,Pix,Completed
+O0000262,C00091,,2025-03-06,Marketplace,Pix,Completed
+O0000263,C00097,,2024-07-04,E-commerce,Cartão,Completed
+O0000264,C00080,,2024-11-26,E-commerce,Cartão,Completed
+O0000265,C00002,,2024-09-05,E-commerce,Pix,Completed
+O0000266,C00031,S005,2025-10-02,Loja física,Cartão,Completed
+O0000267,C00076,S002,2025-07-26,Loja física,Cartão,Completed
+O0000268,C00081,,2025-10-15,Marketplace,Cartão,Completed
+O0000269,C00074,,2025-01-31,E-commerce,Cartão,Completed
+O0000270,C00066,,2025-11-04,E-commerce,Cartão,Completed
+O0000271,C00057,,2025-10-16,Marketplace,Cartão,Completed
+O0000272,C00016,,2024-11-07,E-commerce,Cartão,Completed
+O0000273,C00044,,2025-08-13,E-commerce,Cartão,Completed
+O0000274,C00120,,2024-11-18,E-commerce,Pix,Completed
+O0000275,C00043,,2024-09-17,Marketplace,Cartão,Completed
+O0000276,C00026,,2024-08-15,E-commerce,Pix,Cancelled
+O0000277,C00060,S003,2024-09-28,Loja física,Cartão,Completed
+O0000278,C00093,S006,2025-12-07,Loja física,Pix,Completed
+O0000279,C00052,S005,2025-01-26,Loja física,Cartão,Completed
+O0000280,C00017,S004,2025-08-12,Loja física,Cartão,Completed
+O0000281,C00014,S005,2024-05-18,Loja física,Pix,Completed
+O0000282,C00038,S002,2024-04-01,Loja física,Pix,Completed
+O0000283,C00119,S002,2024-12-24,Loja física,Boleto,Completed
+O0000284,C00075,S004,2024-10-21,Loja física,Cartão,Completed
+O0000285,C00060,,2025-11-15,E-commerce,Cartão,Completed
+O0000286,C00071,,2025-11-09,Marketplace,Pix,Completed
+O0000287,C00078,S005,2025-04-13,Loja física,Cartão,Completed
+O0000288,C00117,,2024-11-05,E-commerce,Pix,Completed
+O0000289,C00066,S002,2025-11-25,Loja física,Cartão,Completed
+O0000290,C00105,,2024-11-12,Marketplace,Pix,Completed
+O0000291,C00096,S001,2024-05-01,Loja física,Pix,Completed
+O0000292,C00088,S005,2025-01-02,Loja física,Pix,Completed
+O0000293,C00085,S003,2024-08-19,Loja física,Cartão,Cancelled
+O0000294,C00002,,2025-03-13,E-commerce,Cartão,Completed
+O0000295,C00041,,2024-02-20,Marketplace,Cartão,Completed
+O0000296,C00079,S005,2025-10-23,Loja física,Pix,Cancelled
+O0000297,C00027,,2025-04-10,E-commerce,Cartão,Completed
+O0000298,C00034,,2024-06-12,E-commerce,Cartão,Completed
+O0000299,C00081,,2025-03-05,Marketplace,Cartão,Completed
+O0000300,C00049,,2025-04-14,E-commerce,Cartão,Completed
+O0000301,C00010,,2024-07-31,E-commerce,Pix,Completed
+O0000302,C00059,,2025-12-09,E-commerce,Pix,Cancelled
+O0000303,C00075,S005,2025-04-27,Loja física,Cartão,Completed
+O0000304,C00075,,2024-03-30,Marketplace,Cartão,Returned
+O0000305,C00080,,2025-07-30,E-commerce,Pix,Completed
+O0000306,C00029,,2025-02-28,E-commerce,Cartão,Completed
+O0000307,C00029,S005,2024-01-07,Loja física,Cartão,Completed
+O0000308,C00044,,2025-05-08,Marketplace,Cartão,Completed
+O0000309,C00108,,2025-12-02,E-commerce,Cartão,Completed
+O0000310,C00007,,2025-02-02,E-commerce,Pix,Completed
+O0000311,C00095,S005,2024-08-31,Loja física,Cartão,Completed
+O0000312,C00090,,2025-03-30,Marketplace,Cartão,Completed
+O0000313,C00002,S005,2024-05-15,Loja física,Cartão,Completed
+O0000314,C00002,,2024-12-07,E-commerce,Cartão,Completed
+O0000315,C00114,,2024-10-07,E-commerce,Cartão,Completed
+O0000316,C00003,S006,2024-12-12,Loja física,Cartão,Completed
+O0000317,C00065,S002,2025-12-07,Loja física,Pix,Completed
+O0000318,C00043,,2025-12-16,E-commerce,Cartão,Completed
+O0000319,C00002,S003,2024-11-28,Loja física,Pix,Completed
+O0000320,C00037,S005,2024-11-05,Loja física,Cartão,Completed
+O0000321,C00018,,2024-12-16,E-commerce,Boleto,Completed
+O0000322,C00069,S002,2025-01-23,Loja física,Pix,Completed
+O0000323,C00059,S006,2024-10-25,Loja física,Cartão,Completed
+O0000324,C00055,S006,2024-03-04,Loja física,Boleto,Completed
+O0000325,C00061,,2024-08-28,E-commerce,Cartão,Completed
+O0000326,C00120,,2025-03-03,E-commerce,Cartão,Completed
+O0000327,C00068,S004,2024-05-19,Loja física,Pix,Completed
+O0000328,C00081,,2025-08-14,E-commerce,Boleto,Completed
+O0000329,C00081,,2025-12-08,E-commerce,Pix,Completed
+O0000330,C00090,S001,2025-12-01,Loja física,Cartão,Completed
+O0000331,C00117,S002,2025-03-07,Loja física,Boleto,Completed
+O0000332,C00047,S001,2025-10-01,Loja física,Cartão,Completed
+O0000333,C00092,S006,2025-11-05,Loja física,Cartão,Completed
+O0000334,C00059,,2025-10-14,E-commerce,Cartão,Completed
+O0000335,C00074,S003,2025-06-29,Loja física,Pix,Completed
+O0000336,C00027,,2025-04-04,E-commerce,Cartão,Cancelled
+O0000337,C00044,,2025-11-01,E-commerce,Pix,Completed
+O0000338,C00072,,2024-11-16,E-commerce,Cartão,Completed
+O0000339,C00002,,2024-10-17,E-commerce,Pix,Completed
+O0000340,C00070,,2025-09-11,Marketplace,Boleto,Completed
+O0000341,C00088,S001,2024-11-27,Loja física,Cartão,Completed
+O0000342,C00117,S004,2025-03-27,Loja física,Cartão,Completed
+O0000343,C00004,,2024-04-15,E-commerce,Cartão,Completed
+O0000344,C00037,,2025-05-17,E-commerce,Cartão,Completed
+O0000345,C00054,,2025-05-08,Marketplace,Cartão,Completed
+O0000346,C00044,,2024-12-14,E-commerce,Cartão,Completed
+O0000347,C00067,,2025-05-13,E-commerce,Cartão,Completed
+O0000348,C00115,,2024-11-11,E-commerce,Cartão,Cancelled
+O0000349,C00073,,2025-06-19,Marketplace,Cartão,Completed
+O0000350,C00076,S002,2025-09-25,Loja física,Pix,Completed
+O0000351,C00093,S005,2025-08-28,Loja física,Cartão,Completed
+O0000352,C00007,,2025-11-25,E-commerce,Cartão,Completed
+O0000353,C00019,,2025-07-20,E-commerce,Pix,Completed
+O0000354,C00092,,2024-10-17,E-commerce,Cartão,Completed
+O0000355,C00049,,2025-09-02,Marketplace,Pix,Completed
+O0000356,C00044,,2025-07-06,E-commerce,Cartão,Completed
+O0000357,C00011,,2025-04-30,Marketplace,Cartão,Completed
+O0000358,C00082,,2025-04-09,Marketplace,Pix,Completed
+O0000359,C00017,S002,2025-11-24,Loja física,Pix,Completed
+O0000360,C00033,S002,2025-04-10,Loja física,Boleto,Completed
+O0000361,C00098,S002,2024-10-14,Loja física,Cartão,Completed
+O0000362,C00099,,2024-08-23,E-commerce,Pix,Returned
+O0000363,C00045,,2024-02-15,E-commerce,Cartão,Completed
+O0000364,C00044,,2024-11-08,E-commerce,Boleto,Completed
+O0000365,C00024,,2024-12-06,E-commerce,Pix,Completed
+O0000366,C00003,S004,2025-11-21,Loja física,Cartão,Completed
+O0000367,C00046,,2025-07-06,Marketplace,Boleto,Completed
+O0000368,C00003,S004,2025-11-27,Loja física,Cartão,Completed
+O0000369,C00103,S004,2024-03-08,Loja física,Cartão,Completed
+O0000370,C00015,,2025-05-23,Marketplace,Cartão,Completed
+O0000371,C00003,,2024-01-22,Marketplace,Boleto,Completed
+O0000372,C00008,,2025-04-13,E-commerce,Cartão,Completed
+O0000373,C00013,S006,2025-12-29,Loja física,Pix,Completed
+O0000374,C00020,S005,2025-08-11,Loja física,Pix,Completed
+O0000375,C00082,,2024-06-08,Marketplace,Pix,Completed
+O0000376,C00026,S002,2025-11-25,Loja física,Cartão,Completed
+O0000377,C00005,,2024-10-11,E-commerce,Boleto,Completed
+O0000378,C00033,S003,2025-03-13,Loja física,Cartão,Completed
+O0000379,C00080,,2024-10-22,Marketplace,Cartão,Completed
+O0000380,C00068,S002,2024-03-31,Loja física,Pix,Completed
+O0000381,C00094,,2025-05-17,E-commerce,Cartão,Completed
+O0000382,C00048,,2024-10-21,E-commerce,Cartão,Completed
+O0000383,C00081,S003,2024-05-02,Loja física,Cartão,Completed
+O0000384,C00024,,2024-12-30,E-commerce,Cartão,Completed
+O0000385,C00022,,2025-12-02,E-commerce,Cartão,Completed
+O0000386,C00084,S004,2025-12-30,Loja física,Cartão,Completed
+O0000387,C00025,,2024-12-16,E-commerce,Cartão,Completed
+O0000388,C00087,,2024-04-24,E-commerce,Cartão,Completed
+O0000389,C00025,S001,2024-09-16,Loja física,Boleto,Completed
+O0000390,C00083,S005,2024-04-02,Loja física,Cartão,Completed
+O0000391,C00080,,2025-07-04,Marketplace,Pix,Completed
+O0000392,C00017,S003,2025-03-10,Loja física,Cartão,Completed
+O0000393,C00048,S004,2024-02-11,Loja física,Cartão,Completed
+O0000394,C00006,S006,2025-11-21,Loja física,Cartão,Completed
+O0000395,C00063,S004,2024-12-30,Loja física,Cartão,Completed
+O0000396,C00073,S005,2024-07-02,Loja física,Pix,Completed
+O0000397,C00085,,2025-07-13,Marketplace,Cartão,Completed
+O0000398,C00040,S004,2025-12-24,Loja física,Cartão,Completed
+O0000399,C00002,S003,2024-10-18,Loja física,Pix,Completed
+O0000400,C00031,S006,2025-03-14,Loja física,Cartão,Completed
+O0000401,C00044,,2025-07-05,Marketplace,Pix,Completed
+O0000402,C00092,S006,2024-11-26,Loja física,Cartão,Completed
+O0000403,C00021,S005,2025-07-02,Loja física,Cartão,Completed
+O0000404,C00058,,2024-12-10,E-commerce,Cartão,Completed
+O0000405,C00014,S005,2025-11-10,Loja física,Pix,Completed
+O0000406,C00068,,2025-04-23,E-commerce,Pix,Completed
+O0000407,C00010,,2025-04-18,E-commerce,Cartão,Completed
+O0000408,C00037,S002,2025-12-04,Loja física,Pix,Completed
+O0000409,C00025,S004,2024-03-26,Loja física,Pix,Completed
+O0000410,C00058,,2024-05-23,E-commerce,Pix,Completed
+O0000411,C00012,,2024-08-11,Marketplace,Cartão,Completed
+O0000412,C00046,S003,2024-11-20,Loja física,Boleto,Completed
+O0000413,C00056,S006,2025-11-18,Loja física,Pix,Completed
+O0000414,C00107,S003,2025-03-29,Loja física,Boleto,Completed
+O0000415,C00002,,2025-10-21,Marketplace,Boleto,Completed
+O0000416,C00037,,2025-10-18,E-commerce,Cartão,Completed
+O0000417,C00101,S002,2024-11-23,Loja física,Pix,Completed
+O0000418,C00076,S004,2025-04-18,Loja física,Pix,Completed
+O0000419,C00078,S003,2025-05-21,Loja física,Cartão,Completed
+O0000420,C00037,S003,2024-07-12,Loja física,Cartão,Returned
+O0000421,C00039,,2025-12-31,E-commerce,Cartão,Completed
+O0000422,C00050,S004,2024-02-16,Loja física,Cartão,Completed
+O0000423,C00027,,2025-04-24,E-commerce,Cartão,Completed
+O0000424,C00102,,2025-03-16,E-commerce,Cartão,Completed
+O0000425,C00041,S001,2025-11-04,Loja física,Cartão,Completed
+O0000426,C00078,,2025-03-28,E-commerce,Pix,Completed
+O0000427,C00120,S005,2025-08-22,Loja física,Boleto,Completed
+O0000428,C00061,,2024-05-04,Marketplace,Cartão,Completed
+O0000429,C00066,S006,2025-11-06,Loja física,Boleto,Completed
+O0000430,C00036,S004,2025-09-08,Loja física,Pix,Completed
+O0000431,C00025,,2025-10-31,E-commerce,Boleto,Completed
+O0000432,C00035,S005,2025-05-16,Loja física,Pix,Completed
+O0000433,C00045,S004,2025-06-21,Loja física,Boleto,Completed
+O0000434,C00005,,2025-06-06,E-commerce,Cartão,Completed
+O0000435,C00102,S005,2024-02-16,Loja física,Pix,Completed
+O0000436,C00046,,2024-01-14,E-commerce,Boleto,Completed
+O0000437,C00025,S004,2025-07-05,Loja física,Cartão,Completed
+O0000438,C00024,,2025-08-22,E-commerce,Cartão,Completed
+O0000439,C00036,,2024-10-24,E-commerce,Boleto,Completed
+O0000440,C00076,S003,2025-10-23,Loja física,Cartão,Completed
+O0000441,C00032,S002,2025-11-20,Loja física,Cartão,Completed
+O0000442,C00090,,2025-09-12,Marketplace,Cartão,Completed
+O0000443,C00011,,2024-09-24,E-commerce,Cartão,Completed
+O0000444,C00057,,2025-09-24,E-commerce,Pix,Returned
+O0000445,C00050,,2025-12-26,E-commerce,Pix,Completed
+O0000446,C00050,S003,2025-04-30,Loja física,Cartão,Completed
+O0000447,C00038,S005,2025-03-15,Loja física,Cartão,Completed
+O0000448,C00037,,2024-03-27,E-commerce,Cartão,Completed
+O0000449,C00102,,2025-12-31,Marketplace,Pix,Completed
+O0000450,C00092,,2025-12-15,E-commerce,Pix,Completed
+O0000451,C00005,,2025-07-07,E-commerce,Pix,Completed
+O0000452,C00119,S001,2024-11-07,Loja física,Cartão,Completed
+O0000453,C00025,,2025-09-01,E-commerce,Cartão,Completed
+O0000454,C00010,S004,2025-01-04,Loja física,Cartão,Completed
+O0000455,C00057,,2025-06-22,E-commerce,Pix,Completed
+O0000456,C00053,,2025-12-22,E-commerce,Cartão,Completed
+O0000457,C00119,S004,2024-04-30,Loja física,Cartão,Completed
+O0000458,C00026,S003,2025-03-03,Loja física,Cartão,Completed
+O0000459,C00100,S005,2025-11-14,Loja física,Cartão,Completed
+O0000460,C00011,S006,2025-10-23,Loja física,Pix,Completed
+O0000461,C00046,,2025-06-18,Marketplace,Boleto,Completed
+O0000462,C00092,,2025-08-16,E-commerce,Cartão,Completed
+O0000463,C00053,S001,2025-02-28,Loja física,Cartão,Completed
+O0000464,C00037,S005,2024-06-06,Loja física,Cartão,Cancelled
+O0000465,C00104,S001,2024-11-23,Loja física,Cartão,Completed
+O0000466,C00004,S006,2025-04-20,Loja física,Pix,Completed
+O0000467,C00042,,2024-11-07,E-commerce,Pix,Completed
+O0000468,C00001,S005,2025-07-22,Loja física,Boleto,Completed
+O0000469,C00019,,2025-05-08,E-commerce,Pix,Returned
+O0000470,C00076,,2024-11-03,E-commerce,Boleto,Completed
+O0000471,C00019,,2025-12-25,Marketplace,Cartão,Completed
+O0000472,C00105,,2024-06-26,E-commerce,Cartão,Completed
+O0000473,C00008,,2025-11-18,Marketplace,Pix,Completed
+O0000474,C00005,,2025-12-27,E-commerce,Pix,Completed
+O0000475,C00015,S006,2025-12-21,Loja física,Pix,Completed
+O0000476,C00073,,2024-10-07,Marketplace,Cartão,Completed
+O0000477,C00120,S006,2024-11-26,Loja física,Cartão,Completed
+O0000478,C00001,S001,2025-06-29,Loja física,Pix,Completed
+O0000479,C00066,S004,2024-12-03,Loja física,Cartão,Completed
+O0000480,C00006,S001,2025-09-26,Loja física,Cartão,Completed
+O0000481,C00008,,2025-12-11,Marketplace,Cartão,Completed
+O0000482,C00090,,2025-04-09,Marketplace,Cartão,Completed
+O0000483,C00006,,2025-08-24,E-commerce,Pix,Completed
+O0000484,C00065,S002,2025-03-07,Loja física,Cartão,Completed
+O0000485,C00033,S005,2025-09-09,Loja física,Cartão,Completed
+O0000486,C00072,,2024-03-11,E-commerce,Pix,Returned
+O0000487,C00066,S006,2025-12-10,Loja física,Pix,Completed
+O0000488,C00012,,2024-07-22,Marketplace,Cartão,Completed
+O0000489,C00073,S001,2024-04-13,Loja física,Cartão,Completed
+O0000490,C00103,S002,2024-03-07,Loja física,Cartão,Completed
+O0000491,C00010,S006,2025-07-02,Loja física,Pix,Completed
+O0000492,C00051,S006,2025-06-05,Loja física,Pix,Completed
+O0000493,C00018,S004,2024-07-26,Loja física,Cartão,Completed
+O0000494,C00002,,2024-12-26,E-commerce,Cartão,Completed
+O0000495,C00005,,2024-03-18,E-commerce,Pix,Completed
+O0000496,C00093,,2024-09-13,E-commerce,Pix,Completed
+O0000497,C00083,S005,2024-08-21,Loja física,Cartão,Completed
+O0000498,C00057,S005,2025-03-25,Loja física,Cartão,Completed
+O0000499,C00039,,2024-12-29,E-commerce,Pix,Completed
+O0000500,C00090,,2024-12-04,Marketplace,Cartão,Completed
+O0000501,C00075,,2024-06-30,E-commerce,Cartão,Completed
+O0000502,C00119,S004,2025-02-24,Loja física,Cartão,Completed
+O0000503,C00063,,2025-11-11,Marketplace,Cartão,Completed
+O0000504,C00059,,2025-05-17,E-commerce,Pix,Completed
+O0000505,C00070,,2025-04-13,E-commerce,Pix,Completed
+O0000506,C00066,S001,2024-06-10,Loja física,Pix,Completed
+O0000507,C00006,,2025-01-12,E-commerce,Cartão,Completed
+O0000508,C00083,,2025-04-17,E-commerce,Cartão,Completed
+O0000509,C00004,,2025-04-20,E-commerce,Boleto,Completed
+O0000510,C00054,S001,2024-06-30,Loja física,Cartão,Completed
+O0000511,C00076,,2025-06-29,E-commerce,Pix,Completed
+O0000512,C00001,,2025-03-30,E-commerce,Boleto,Completed
+O0000513,C00103,,2024-03-05,E-commerce,Cartão,Completed
+O0000514,C00013,S005,2024-11-26,Loja física,Cartão,Completed
+O0000515,C00016,,2025-02-02,E-commerce,Pix,Completed
+O0000516,C00119,,2025-09-05,E-commerce,Boleto,Completed
+O0000517,C00109,,2025-12-14,E-commerce,Cartão,Completed
+O0000518,C00085,S002,2024-08-26,Loja física,Pix,Completed
+O0000519,C00010,S001,2025-05-25,Loja física,Pix,Completed
+O0000520,C00081,S002,2024-01-25,Loja física,Pix,Completed
+O0000521,C00061,,2024-05-08,E-commerce,Cartão,Cancelled
+O0000522,C00014,S005,2024-11-14,Loja física,Cartão,Completed
+O0000523,C00081,,2025-03-08,E-commerce,Pix,Completed
+O0000524,C00010,,2024-11-03,E-commerce,Cartão,Completed
+O0000525,C00100,,2024-07-13,E-commerce,Cartão,Completed
+O0000526,C00058,S004,2024-05-07,Loja física,Pix,Cancelled
+O0000527,C00002,,2024-09-09,E-commerce,Pix,Completed
+O0000528,C00059,,2024-09-17,E-commerce,Cartão,Completed
+O0000529,C00060,,2025-11-05,E-commerce,Boleto,Completed
+O0000530,C00004,,2025-05-18,E-commerce,Pix,Completed
+O0000531,C00003,S002,2024-08-05,Loja física,Pix,Completed
+O0000532,C00085,S003,2025-05-04,Loja física,Cartão,Completed
+O0000533,C00033,,2025-09-10,Marketplace,Pix,Returned
+O0000534,C00101,S002,2024-04-12,Loja física,Cartão,Completed
+O0000535,C00032,S006,2024-11-25,Loja física,Cartão,Completed
+O0000536,C00049,S006,2025-05-31,Loja física,Boleto,Returned
+O0000537,C00006,,2025-11-06,Marketplace,Boleto,Completed
+O0000538,C00009,,2025-11-17,E-commerce,Cartão,Completed
+O0000539,C00024,S003,2024-08-16,Loja física,Boleto,Completed
+O0000540,C00054,,2024-11-14,E-commerce,Cartão,Returned
+O0000541,C00093,S002,2025-04-16,Loja física,Cartão,Completed
+O0000542,C00067,S003,2025-12-24,Loja física,Cartão,Completed
+O0000543,C00011,S004,2025-11-06,Loja física,Pix,Completed
+O0000544,C00027,,2025-02-07,E-commerce,Cartão,Completed
+O0000545,C00080,,2025-10-28,E-commerce,Boleto,Completed
+O0000546,C00117,S001,2024-02-27,Loja física,Cartão,Completed
+O0000547,C00025,,2024-09-03,E-commerce,Pix,Completed
+O0000548,C00067,S001,2025-10-27,Loja física,Cartão,Completed
+O0000549,C00047,,2025-08-30,E-commerce,Cartão,Completed
+O0000550,C00092,S005,2025-07-04,Loja física,Pix,Completed
+O0000551,C00013,,2025-11-05,E-commerce,Cartão,Completed
+O0000552,C00008,S005,2024-02-05,Loja física,Boleto,Completed
+O0000553,C00048,S003,2025-03-31,Loja física,Cartão,Completed
+O0000554,C00099,S002,2024-07-11,Loja física,Cartão,Completed
+O0000555,C00015,,2025-12-12,E-commerce,Pix,Completed
+O0000556,C00089,S005,2024-06-06,Loja física,Cartão,Completed
+O0000557,C00032,S003,2024-12-03,Loja física,Pix,Completed
+O0000558,C00092,S003,2024-11-09,Loja física,Pix,Completed
+O0000559,C00103,S005,2025-06-28,Loja física,Cartão,Completed
+O0000560,C00073,S004,2025-12-25,Loja física,Boleto,Completed
+O0000561,C00026,S001,2024-11-08,Loja física,Cartão,Completed
+O0000562,C00051,,2024-05-19,Marketplace,Pix,Completed
+O0000563,C00096,,2024-06-28,E-commerce,Cartão,Cancelled
+O0000564,C00047,S001,2024-04-30,Loja física,Cartão,Completed
+O0000565,C00001,S003,2025-05-14,Loja física,Cartão,Completed
+O0000566,C00051,S001,2024-07-21,Loja física,Cartão,Completed
+O0000567,C00011,S004,2025-11-03,Loja física,Pix,Completed
+O0000568,C00014,S006,2024-02-02,Loja física,Cartão,Returned
+O0000569,C00030,S006,2024-01-22,Loja física,Pix,Completed
+O0000570,C00023,S003,2025-06-07,Loja física,Cartão,Returned
+O0000571,C00008,S002,2024-06-01,Loja física,Cartão,Completed
+O0000572,C00017,S004,2025-12-17,Loja física,Cartão,Completed
+O0000573,C00003,S001,2024-09-09,Loja física,Cartão,Completed
+O0000574,C00007,,2025-01-07,E-commerce,Pix,Completed
+O0000575,C00022,,2025-01-15,E-commerce,Cartão,Completed
+O0000576,C00014,S001,2025-11-01,Loja física,Cartão,Completed
+O0000577,C00052,,2024-03-10,Marketplace,Cartão,Completed
+O0000578,C00083,S004,2024-03-17,Loja física,Cartão,Completed
+O0000579,C00077,,2025-06-09,E-commerce,Cartão,Completed
+O0000580,C00103,,2025-10-16,Marketplace,Pix,Completed
+O0000581,C00112,,2025-01-12,Marketplace,Cartão,Completed
+O0000582,C00001,,2024-06-29,E-commerce,Boleto,Completed
+O0000583,C00015,,2024-08-13,E-commerce,Cartão,Completed
+O0000584,C00048,,2024-06-29,E-commerce,Cartão,Completed
+O0000585,C00019,,2024-05-26,Marketplace,Cartão,Returned
+O0000586,C00005,S006,2024-05-15,Loja física,Pix,Completed
+O0000587,C00046,,2024-03-28,E-commerce,Cartão,Completed
+O0000588,C00002,,2024-05-06,E-commerce,Pix,Completed
+O0000589,C00103,,2025-12-01,E-commerce,Cartão,Completed
+O0000590,C00029,S001,2024-12-31,Loja física,Pix,Completed
+O0000591,C00072,S003,2025-03-11,Loja física,Cartão,Completed
+O0000592,C00079,,2024-05-31,E-commerce,Cartão,Completed
+O0000593,C00116,,2025-03-10,E-commerce,Cartão,Completed
+O0000594,C00060,S005,2024-08-23,Loja física,Pix,Completed
+O0000595,C00030,,2024-04-22,E-commerce,Pix,Completed
+O0000596,C00009,,2024-08-17,Marketplace,Cartão,Completed
+O0000597,C00060,S005,2025-12-19,Loja física,Cartão,Completed
+O0000598,C00079,S006,2024-11-02,Loja física,Cartão,Completed
+O0000599,C00095,,2024-06-13,E-commerce,Cartão,Completed
+O0000600,C00094,,2024-08-12,Marketplace,Cartão,Completed

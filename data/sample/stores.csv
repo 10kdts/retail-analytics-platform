@@ -1,0 +1,7 @@
+﻿store_id,store_name,city,state,region,opened_at
+S001,Loja São Paulo,São Paulo,SP,Sudeste,2019-03-01
+S002,Loja Rio de Janeiro,Rio de Janeiro,RJ,Sudeste,2020-05-01
+S003,Loja Belo Horizonte,Belo Horizonte,MG,Sudeste,2021-07-01
+S004,Loja Curitiba,Curitiba,PR,Sul,2022-09-01
+S005,Loja Salvador,Salvador,BA,Nordeste,2018-11-01
+S006,Loja Recife,Recife,PE,Nordeste,2019-01-01
