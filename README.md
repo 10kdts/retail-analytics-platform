@@ -1,6 +1,6 @@
 # Retail Analytics Platform
 
-Projeto de portfólio end-to-end para demonstrar competências de Analista de Dados, BI e Especialista em Dados.
+Criei este projeto para mostrar como eu organizaria uma solução analítica de varejo do começo ao fim: geração dos dados, carga, modelagem, validação e consumo. A ideia não era só montar um dashboard, mas deixar claro de onde cada número veio e como o pipeline pode ser reexecutado.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-2563EB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791)
@@ -31,7 +31,7 @@ O projeto responderá perguntas como:
 - Como retenção, recorrência e ticket médio variam por segmento?
 - Quais ações têm maior potencial de impacto financeiro?
 
-## Competências demonstradas
+## O que coloquei em prática
 
 - SQL analítico e modelagem dimensional
 - Python para ingestão, validação e análise
